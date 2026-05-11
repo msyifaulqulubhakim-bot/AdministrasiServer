@@ -14,7 +14,8 @@
     - klik new repository secret
     - sis nama = AWS_PRIVATE_KEY  dan value = file .pem
 
-    ![Alt text](image.png)
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/914f3b0b-32e5-4db5-9e03-8560fd317a00" />
+
 
 2. Melakukan edit file pipeline di github 
     - buka project comro_nim
